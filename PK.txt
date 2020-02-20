@@ -1,7 +1,4 @@
 Pk Test File
 Pk Test added By abhishek
-<<<<<<< HEAD
 Pk Test added By prathamesh
-=======
 Pk Test added By PRATHAMESH
->>>>>>> a725627904e71c2731010c9296f6a49ec68ca534
